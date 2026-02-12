@@ -1,5 +1,5 @@
 import React from 'react';
-import { Award, Book, Briefcase } from 'lucide-react';
+
 
 const Pillars: React.FC = () => {
     return (
